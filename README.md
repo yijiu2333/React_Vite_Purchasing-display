@@ -68,4 +68,4 @@ SPDX-License-Identifier: MIT
 ---
 
 ## 📄 许可证
-   - [MIT](./LICENSE) © 2025 Yijiu Zhao
+   - [MIT](./LICENSE) © 2025 Yijiu233
