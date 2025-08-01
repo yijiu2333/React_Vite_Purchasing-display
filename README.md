@@ -9,7 +9,7 @@ SPDX-License-Identifier: MIT
 ---
 
 ## ⚙️ 介绍
-> 一个基于 react 框架的前端 web 看板应用，用于展示车间生产数据，配合后端 flask 程序使用。
+> 一个基于 react 框架的前端 web 看板应用，用于展示销售部降本增效数据，配合后端 flask 程序使用。
 
 ---
 
